@@ -1,3 +1,7 @@
+# This is Angular Portofolio by Rino Adri with the help of Youtube Course
+
+https://www.youtube.com/watch?v=oa9cnWTpqP8&t=2692s
+
 # Ng5
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
